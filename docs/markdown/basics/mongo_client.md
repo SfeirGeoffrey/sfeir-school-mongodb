@@ -41,7 +41,6 @@ Notes:
 # Exercice 3
 ## lab
 <br>
-
 - Importer la collection movieDetails dans la base de données video<br/><br/>
 - Analyser le schéma des documents appartenant à cette collection<br/><br/>
 - Quel est le type de la clé 'tomato'?<br/><br/>
@@ -51,6 +50,3 @@ Notes:
 <!-- .slide: class="transition-bg-sfeir-3 blue"-->
 # Live Correction
 
-##==##
-<!-- .slide: class="transition-bg-sfeir-2 blue"-->
-# Cas Concret & Q/A

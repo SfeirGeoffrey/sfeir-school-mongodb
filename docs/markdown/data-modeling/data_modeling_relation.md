@@ -12,17 +12,6 @@
 - <b>Exemple:</b> Un patient et son historique médical
 <br/><br/>
 
-- 2 façons de modéliser ce type de relation:
-    - Dénormalization
-    <!-- .element: class="important" -->
-    - Normalization
-    <!-- .element: class="important" -->
-Notes:
-Chaque solution a ses avantages et inconvénients
-- Dénormalization: On gagne de la performance en terme de lecture cependant un historique médical peut être conséquent on risque de dépasser la taille max d'un document 16MB
-- Normalization: On gagne du temps en terme d'écriture et de lecture si l'on souhaite avoir plus souvant accès au patient qu'à son historique. Cependant
- on risque de créer de l'inconsistence de données (on peut supprimer ce risque en utilisant le true linking)
-
  ##==##
 
  <!-- .slide: class="with-code inconsolata"-->
@@ -75,10 +64,12 @@ Chaque solution a ses avantages et inconvénients
 - 1 seule façon de modéliser ce type de relation:
     - Normalization en utilisant le true linking <br/><br/>
     <!-- .element: class="important" -->
+	
+- Le true linking consiste à réaliser une référence par _id qui est unique et surtout qui n'est pas censée être modifiée => on supprime ici l'inconsistence
+<br/><br/>
 - Et si l'on était dans une relation ou le Many se trouve être un few?
 <!-- .element: class="bold" -->
-Notes: 
-Le true linking consiste à réaliser une référence par _id qui est unique et surtout qui n'est pas sencée être modifiée => on supprime ici l'inconsistence ;)
+
 
 ##==##
 
@@ -214,10 +205,9 @@ Le true linking consiste à réaliser une référence par _id qui est unique et 
 # La relation Many to Many
 - <b>Exemple: </b> Professeurs et élèves: un professeur a plusieurs élèves et réciproquement <br/><br/>
 - 1 façon de modéliser ce type de relation:
-    - Normalization en utilisant le two way true linking 
+    - Normalization en utilisant le two way true linking <br/><br/>
     <!-- .element: class="important" -->
-Notes: 
-Two way true linking consiste tout simplement à réaliser un tableau dans chaque document contenant les id relationnels
+- Two way true linking consiste tout simplement à réaliser un tableau dans chaque document contenant les id relationnels
 
 ##==##
 

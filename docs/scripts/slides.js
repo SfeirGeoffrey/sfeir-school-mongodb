@@ -10,7 +10,7 @@ function schoolSlides() {
 
 function speakerSlides() {
   return [
-    'speaker/nicolas_frizzarin.md',
+    'speaker/geoffrey_erhard.md',
   ];
 };
 
@@ -46,11 +46,20 @@ function querySLides() {
 function modelingSlides() {
   return [
     'data-modeling/transition_slide.md',
-    'data-modeling/mongo_architecture.md',
-    'data-modeling/data_modeling_methods.md',
     'data-modeling/data_modeling_relation.md',
     'data-modeling/data_modeling_tree.md',
     'data-modeling/exercice.md',
+  ];
+};
+
+function aggregationFrameworkSlides() {
+  return [
+    'aggregation/transition_slide.md',
+    'aggregation/concept.md',
+    'aggregation/pipeline.md',
+    'aggregation/stage.md',
+    'aggregation/operators.md',
+    'aggregation/exercice.md',
   ];
 };
 
@@ -63,18 +72,6 @@ function indexPerformanceSlides() {
     'indexation-performance/performance.md',
     'indexation-performance/covered_queries.md',
     'indexation-performance/exercice.md',
-  ];
-};
-
-function aggregationFrameworkSlides() {
-  return [
-    'aggregation/transition_slide.md',
-    'aggregation/concept.md',
-    'aggregation/pipeline.md',
-    'aggregation/stage.md',
-    'aggregation/operators.md',
-    'aggregation/optimisation.md',
-    'aggregation/exercice.md',
   ];
 };
 
@@ -121,8 +118,8 @@ function formation() {
     ...basicsSlides(),
     ...querySLides(),
     ...modelingSlides(),
-    ...indexPerformanceSlides(),
     ...aggregationFrameworkSlides(),
+	...indexPerformanceSlides(),
     ...replicationSlides(),
     ...shardingSlides(),
   ].map(slidePath => {

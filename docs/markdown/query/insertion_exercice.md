@@ -12,6 +12,3 @@ Notes:
 <!-- .slide: class="transition-bg-sfeir-3 blue"-->
 # Live Correction
 
-##==##
-<!-- .slide: class="transition-bg-sfeir-2 blue"-->
-# Cas Concret & Q/A

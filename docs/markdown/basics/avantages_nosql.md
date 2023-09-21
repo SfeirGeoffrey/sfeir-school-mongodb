@@ -17,7 +17,6 @@ Pour obtenir une scalabilité horiziontale, il a fallu omettre deux grandes fonc
 # Exercice 1
 ## Lab
 <br>
-
 - Qu'est ce qui assure une haute disponibilité des données avec MongoDB? <br/><br/>
 - Quelles fonctionnalités ont été délibérément omises pour assurer une scalabilité horizontale? <br/><br/>
 - Qu'est ce qu'une colonne SQL en MongoDB? <br/><br/>

@@ -13,20 +13,14 @@ Dans la collection companies <br><br>
 <!-- .slide: class="exercice"-->
 # Exercice 6
 ## lab
-
 Dans la collection students<br><br>
 <!-- .element: class="bold center" -->
-
-- Combien d'élèves ont eu plus de 95 au type d'examen homeworks <br><br>
-- Quels sont les différents types de scores<br><br>
-- Projeter pour chaque élève la première note supérieure à 50<br><br>
+- Combien d'élèves ont eu plus de 95 au type d'examen homeworks <br>
+- Quels sont les différents types de scores<br>
+- Projeter pour chaque élève la première note supérieure à 50<br>
 - Projeter pour chaque élève uniquement le nom
-
 
 ##==##
 <!-- .slide: class="transition-bg-sfeir-3 blue"-->
 # Live Correction
 
-##==##
-<!-- .slide: class="transition-bg-sfeir-2 blue"-->
-# Cas Concret & Q/A

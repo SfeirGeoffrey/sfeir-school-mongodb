@@ -24,7 +24,7 @@
 
 - Base de données NOSQL orientée document<br><br>
 - Écrite en C++, GO, Javascript et Python par la société Mongo<br><br>
-- Première version en 2009, version actuelle 4.2
+- Première version en 2009, version actuelle 7.0
 
 ##==##
 

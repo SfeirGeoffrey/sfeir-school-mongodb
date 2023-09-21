@@ -1,5 +1,5 @@
 <!-- .slide: class="exercice"-->
-# Exercice 16
+# Exercice 11
 ## Lab
 <br>
 
@@ -12,7 +12,7 @@ A combien d'entreprises unique a été associé Eric Di Benedetto?
 ##==##
 
 <!-- .slide: class="exercice" -->
-# Exercice 17
+# Exercice 12
 ## Lab
 <br>
 
@@ -25,7 +25,7 @@ Quelle est la classe avec la meilleur moyenne ?
 ##==##
 
 <!-- .slide: class="exercice" -->
-# Exercice 18
+# Exercice 13
 ## Lab
 <br>
 
@@ -39,6 +39,3 @@ Calculez le montant moyen collecté à chaque tour de financement. Quelle entrep
 <!-- .slide: class="transition-bg-sfeir-3 blue"-->
 # Live Correction
 
-##==##
-<!-- .slide: class="transition-bg-sfeir-2 blue"-->
-# Cas Concret & Q/A
