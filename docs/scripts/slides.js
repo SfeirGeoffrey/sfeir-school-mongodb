@@ -11,6 +11,7 @@ function schoolSlides() {
 function speakerSlides() {
   return [
     'speaker/geoffrey_erhard.md',
+    'speaker/talip_cesur.md',
   ];
 };
 
@@ -27,7 +28,6 @@ function basicsSlides() {
     'basics/avantages_nosql.md',
     'basics/commands.md',
     'basics/mongo_client.md',
-    'basics/mongo_cloud.md',
   ];
 };
 
