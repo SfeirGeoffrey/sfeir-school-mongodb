@@ -1,10 +1,10 @@
 <!-- .slide: class="speaker-slide blue" -->
-![speaker](assets/images/speaker/geoffrey-erhard/geoffreyE.jpg)
+![speaker](assets/images/speaker/talip-cesur/talipC.jpg)
 ![company](assets/images/speaker/logo-sfeir-blanc.png)
-<h2>Geoffrey <span>Erhard</span></h2>
+<h2>Talip <span>Cesur</span></h2>
 
-### Developpeur FullStack
+### Engineering Manager / FullStack JS Developer
 <!-- .element: class="icon-rule icon-first" -->
 
-### erhard.g@sfeir.com
+### cesur.t@sfeir.com
 <!-- .element: class="icon-mail icon-third"-->

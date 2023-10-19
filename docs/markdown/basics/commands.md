@@ -77,6 +77,48 @@ show dbs / collections
 
 ##==##
 
+<!-- .slide: class="transition-bg-sfeir-3 blue"-->
+# Installation
+
+##==##
+
+<!-- .slide: class="with-code inconsolata" -->
+# Installation Windows
+<br/><br/>
+- Télécharger MongoDB Community Server sur le site officiel
+<br/>
+https://www.mongodb.com/try/download/community
+<br/>
+- Lancer l'installation
+<br/>
+<!-- .element: class="big-code" -->
+
+##==##
+
+<!-- .slide: class="with-code inconsolata" -->
+# Installation macOS
+<br/><br/>
+- Télécharger MongoDB Community Server sur le site officiel
+<br/>
+https://www.mongodb.com/try/download/community
+<br/>
+- Lancer l'installation
+<br/>
+<br/>
+OU
+<br/>
+<br/>
+- Installer MongoDB via Homebrew
+<br/>
+
+```bash
+    brew tap mongodb/brew
+    brew install mongodb-community@4.4
+```
+<!-- .element: class="big-code" -->
+
+##==##
+
 <!-- .slide: class="transition-bg-sfeir-2 blue"-->
 # Time to Demo
 
