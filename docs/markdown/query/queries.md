@@ -9,7 +9,6 @@
 - La méthode la plus courante est la méthode <b>find()</b> définie par deux paramètres et un type de retour :
     - Object query
     - Object projection
-    - Cursor
 <br><br>
 
 ```bash
@@ -223,7 +222,6 @@ db.users.find({ lastName: "Nicolas" }, { password: 0 })
 <div class="flex-row">
   <div class="circle bold">$</div>
   <div class="circle bold">$elemMatch</div>
-  <div class="circle bold">$meta</div>
   <div class="circle bold">$slice</div>
 </div>
 Notes: 

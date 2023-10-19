@@ -15,8 +15,7 @@ Dans la collection restaurant <br><br>
 Dans la collection companies<br><br>
 <!-- .element: class="bold" -->
 - Setter à 5300 collaborateurs les compagnies dont le nombre d'employés est compris entre 5250 et 5300<br>
-- Modifier le nom de Mark Zuckerberg pour le mettre en majuscule<br>
-- Ajouter en prenant soin d'avoir le même model de données déjà présent : Nicolas Frizzarin, Aurelien Dupuis
+- Ajouter à la compagnie Facebook la relation : Nicolas Frizzarin 
 
 ##==##
 
