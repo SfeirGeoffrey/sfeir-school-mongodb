@@ -49,11 +49,9 @@ Notes: Le reste des combinaisons ne marchera pas ! et n'utilisera pas l'index
 
 - Règle d'utilisation
 <!-- .element: class="bold" -->
-    - db.data.find( { a: 5 } ).sort( { b: 1, c: 1 } ) => <span class="important">utilise l'index</span> <br><br>
-    - db.data.find( { b: 3, a: 4 } ).sort( { c: 1 } ) => <span class="important">utilise l'index</span> <br><br>
-    - db.data.find( { b: 3, a: 4 } ).sort( { c: 1 } ) => <span class="important">utilise l'index</span> <br><br>
-Notes: 
-- db.data.find( { a: { $gt: 2 }, b: 2 } ).sort( { c: 1 } ) n'utilise pas l'index pas de condition d'égalité sur a et b
-- db.data.find( { c: 5 } ).sort( { c: 1 } )  n'utilise pas l'index pour les mêmes raisons que précédemment
+    - db.data.find( { a: 5 } ).sort( { b: 1, c: 1 } ) => <span class="important">utilise l'index</span>
+    - db.data.find( { b: 3, a: 4 } ).sort( { c: 1 } ) => <span class="important">utilise l'index</span>
+    - db.data.find( { a: { $gt: 2 }, b: 2 } ).sort( { c: 1 } ) n'utilise pas l'index pas de condition d'égalité sur a et b
+    - db.data.find( { c: 5 } ).sort( { c: 1 } )  n'utilise pas l'index pour les mêmes raisons que précédemment
 
 

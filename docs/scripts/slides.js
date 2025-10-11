@@ -11,7 +11,7 @@ function schoolSlides() {
 function speakerSlides() {
   return [
     'speaker/geoffrey_erhard.md',
-    'speaker/talip_cesur.md',
+    'speaker/jerome_dupraz.md',
   ];
 };
 
@@ -70,7 +70,6 @@ function indexPerformanceSlides() {
     'indexation-performance/creation.md',
     'indexation-performance/usage.md',
     'indexation-performance/performance.md',
-    'indexation-performance/covered_queries.md',
     'indexation-performance/exercice.md',
   ];
 };

@@ -27,26 +27,5 @@ Notes:
     - Text index <br/><br/>
     - Geospatial index <br/><br/>
     - Hashed index <br/><br/>
-Notes: 
-Pour l'index de types géospacial, il y a deux types d'index => 2d et 2sphère
 
-##==##
 
-<!-- .slide-->
-# Les propriétés des indexes
-- Les indexes peuvent posséder également des propriétés:<br/><br/>
-    - Partial <br/><br/>
-    - Unique <br/><br/>
-    - Sparse <br/><br/>
-    - TTL
-##==##
-
-<!-- .slide-->
-# Un index déjà créé
-<div class="full-center">
-  <label>MongoDB crée déjà un index lorsqu'il crée une collection</label>
-  <br/>
-  <label>Quel est-il ?</label>
-</div>
-<br/>
-Notes: Solution _id puisque ce champs est obligatoire et doit être unique!!!

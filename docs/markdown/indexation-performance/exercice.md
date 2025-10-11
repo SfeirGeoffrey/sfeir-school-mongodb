@@ -1,5 +1,5 @@
 <!-- .slide: class="exercice"-->
-# Exercice 12
+# Exercice 14
 ## Lab
 <br/>
 
@@ -8,37 +8,18 @@ Dans la collection students<br/><br/>
 
 - créer un index sur le champs de name<br/><br/>
 - afficher tous les indexes disponibles sur cette collection<br/><br/>
-- réaliser une covered queries<br/><br/>
-- vérifier cette covered query à l'aide de la commande explain
  
-##==##
-
-<!-- .slide: class="exercice with-code inconsolata"-->
-# Exercice 13
-## Lab
-<br/>
-
-Soit la query suivante:
-<!-- .element: class="bold" -->
-<br/>
-
-```sh
-db.products.find({ in_stock: true, price: { $gt: 1, $lt: 5 } }).sort({ name: 1 })
-```
-<!-- .element: class="big-code" -->
-<br/><br/>
-Construisez un index permettant de réaliser une covered query
 
 ##==##
 
 <!-- .slide: class="exercice with-code inconsolata" -->
-# Exercice 14
+# Exercice 15
 ## Lab
 <br/>
 
 Soit l'index suivant:
 <!-- .element: class="bold" -->
-<br/>
+
 
 ```json
 { first_name : 1, address.state: -1, address.city: -1, ssn: 1 }
@@ -51,9 +32,8 @@ Dans le dossier assets/exercice/sort-queries situé à la racine, fichier sort_q
 ##==##
 
 <!-- .slide: class="exercice with-code" -->
-# Exercice 15
+# Exercice 16
 ## Lab
-<br/>
 
 Dans le dossier assets/exercice/explain, fichier explain se trouve une explication de query.
 <!--.element: class="bold" -->
@@ -68,7 +48,3 @@ Dans le dossier assets/exercice/explain, fichier explain se trouve une explicati
 ##==##
 <!-- .slide: class="transition-bg-sfeir-3 blue"-->
 # Live Correction
-
-##==##
-<!-- .slide: class="transition-bg-sfeir-2 blue"-->
-# Cas Concret & Q/A
