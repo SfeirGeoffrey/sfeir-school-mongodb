@@ -1,5 +1,5 @@
 <!-- .slide: class="exercice"-->
-# Exercice 4
+# Exercice 3
 ## Lab
 <br><br>
 - Importer la collection restaurant dans la base de données SfeirSchool<br><br>

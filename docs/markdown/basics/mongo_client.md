@@ -38,7 +38,7 @@ Notes:
 ##==##
 
 <!-- .slide: class="exercice"-->
-# Exercice 3
+# Exercice 2
 ## lab
 <br>
 - Importer la collection movieDetails dans la base de données video<br/><br/>

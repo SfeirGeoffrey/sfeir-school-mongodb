@@ -8,10 +8,10 @@
 <!-- .slide: class="sfeir-basic-slide" -->
 # Les différents types d'arbres
 - Il existe plusieurs façons de modéliser l'arbre d'exemple précédent.<br/><br/>
-    - Parent référence<br/><br/>
-    - "Référence Enfant"<br/><br/>
+    - Parent reference<br/><br/>
+    - Child reference<br/><br/>
     - Array ancestors<br/><br/>
-    - Matérialized path<br/><br/>
+    - Materialized path<br/><br/>
     - Nested sets
 
 ##==##

@@ -1,5 +1,5 @@
 <!-- .slide: class="exercice"-->
-# Exercice 14
+# Exercice 12
 ## Lab
 <br/>
 
@@ -13,7 +13,7 @@ Dans la collection students<br/><br/>
 ##==##
 
 <!-- .slide: class="exercice with-code inconsolata" -->
-# Exercice 15
+# Exercice 13
 ## Lab
 <br/>
 
@@ -32,7 +32,7 @@ Dans le dossier assets/exercice/sort-queries situé à la racine, fichier sort_q
 ##==##
 
 <!-- .slide: class="exercice with-code" -->
-# Exercice 16
+# Exercice 14
 ## Lab
 
 Dans le dossier assets/exercice/explain, fichier explain se trouve une explication de query.

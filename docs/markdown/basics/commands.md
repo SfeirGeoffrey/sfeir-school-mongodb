@@ -85,36 +85,12 @@ show dbs / collections
 <!-- .slide: class="with-code inconsolata" -->
 # Installation Windows
 <br/><br/>
-- Télécharger MongoDB Community Server sur le site officiel
-<br/>
-https://www.mongodb.com/try/download/community
-<br/>
-- Lancer l'installation
-<br/>
-<!-- .element: class="big-code" -->
-
-##==##
-
-<!-- .slide: class="with-code inconsolata" -->
-# Installation macOS
+- Télécharger l'installer de MongoDB : https://www.mongodb.com/try/download/community
 <br/><br/>
-- Télécharger MongoDB Community Server sur le site officiel
-<br/>
-https://www.mongodb.com/try/download/community
-<br/>
-- Lancer l'installation
-<br/>
-<br/>
-OU
-<br/>
-<br/>
-- Installer MongoDB via Homebrew
-<br/>
-
-```bash
-    brew tap mongodb/brew
-    brew install mongodb-community@4.4
-```
+- Lien pour télécharger les différents outils : https://www.mongodb.com/try/download/tools
+<br/><br/>
+- Télécharger les mongoDB Tools : https://www.mongodb.com/try/download/database-tools
+<br/><br/>
 <!-- .element: class="big-code" -->
 
 ##==##
@@ -125,7 +101,7 @@ OU
 ##==##
 
 <!-- .slide: class="exercice"-->
-# Exercice 2
+# Exercice 1
 ## Lab
 <br>
 

@@ -1,5 +1,5 @@
 <!-- .slide: class="exercice"-->
-# Exercice 7
+# Exercice 6
 ## Lab
 Dans la collection restaurant <br><br>
 <!-- .element: class="bold" -->
@@ -10,7 +10,7 @@ Dans la collection restaurant <br><br>
 ##==##
 
 <!-- .slide: class="exercice" -->
-# Exercice 8
+# Exercice 7
 ## Lab
 Dans la collection companies<br><br>
 <!-- .element: class="bold" -->

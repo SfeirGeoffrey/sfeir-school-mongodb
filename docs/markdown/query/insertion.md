@@ -41,7 +41,7 @@ db.collection.insertMany(tableau de document, options)
 
 - Crée une collection si elle n'existe pas
 - Crée un _id s'il n'est pas précisé
-- Prise en compte dans la nouvelle fonctionnalité transactionnelle
+- Est transactionnelle
 <br><br>
 
 ```bash
@@ -75,7 +75,7 @@ db.collection.updateOne(query, update, options)
 - Modifie un/plusieurs document(s)
 - Crée une collection si elle n'existe pas
 - Crée un _id s'il n'est pas précisé
-- Pris en compte dans la nouvelle fonctionnalité transactionnelle
+- Est transactionnelle
 <br><br>
 
 ```bash
@@ -105,7 +105,7 @@ db.collection.findAndModify(query, update, upsert: true);
 - Modifie un/plusieurs document(s)
 - Crée une collection si elle n'existe pas
 - Crée un _id s'il n'est pas précisé
-- Pris en compte dans la nouvelle fonctionnalité transactionnelle
+- Est transactionnelle
 <br><br>
 
 ```bash
@@ -134,7 +134,7 @@ db.collection.findOneAndReplace(query, update, upsert: true);
 - Modifie un document
 - Crée une collection si elle n'existe pas
 - Crée un _id s'il n'est pas précisé
-- Pris en compte dans la nouvelle fonctionnalité transactionnelle
+- Est transactionnelle
 <br><br>
 
 ```bash

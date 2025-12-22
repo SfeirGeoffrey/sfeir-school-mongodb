@@ -1,5 +1,5 @@
 <!-- .slide: class="exercice"-->
-# Exercice 11
+# Exercice 9
 ## Lab
 <br>
 
@@ -12,7 +12,7 @@ A combien d'entreprises unique a été associé Eric Di Benedetto?
 ##==##
 
 <!-- .slide: class="exercice" -->
-# Exercice 12
+# Exercice 10
 ## Lab
 <br>
 
@@ -25,7 +25,7 @@ Quelle est la classe avec la meilleur moyenne ?
 ##==##
 
 <!-- .slide: class="exercice" -->
-# Exercice 13
+# Exercice 11
 ## Lab
 <br>
 

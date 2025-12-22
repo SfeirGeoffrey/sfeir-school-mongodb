@@ -17,9 +17,9 @@
 ##==##
 
 <!-- .slide: class="with-code inconsolata"-->
-# La méthode findOneAndReplace
+# La méthode replaceOne
 
-<b> La méthode findOneAndReplace consiste à remplacer un document existant si un document match le filtre de query</b>
+<b> La méthode replaceOne consiste à remplacer un document existant si un document match le filtre de query</b>
 <br/><br/>
 
 ```bash
