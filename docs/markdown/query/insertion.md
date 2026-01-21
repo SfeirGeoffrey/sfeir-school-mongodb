@@ -24,9 +24,9 @@
 <br/><br/>
 
 - Un ObjectId est codé sur 12 bytes
-    - <b>4 bytes</b>: secondes depuis l'époque Unix
-    - <b>5 bytes</b>: valeur aléatoire
-    - <b>3 bytes</b>: compteur commençant par une valeur aléatoire
+    - <b>4 octets</b>: secondes depuis l'époque Unix
+    - <b>5 octets</b>: valeur aléatoire
+    - <b>3 octets</b>: compteur commençant par une valeur aléatoire
 Notes: Il est quand même préférable de gérer son _id dans le code du serveur, c'est moins coûteux que de générer un objectId par la base de données.
 
 ##==##
